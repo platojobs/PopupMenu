@@ -7,6 +7,11 @@ QQ菜单+号按钮弹出的可变菜单
 |---|---
 |E-mail|1300000608@qq.com
 
+***效果图：***
+----------------------
+![](https://github.com/cuishengxi/PopupMenu/blob/master/屏幕快照%202017-12-18%20下午4.45.38.png?raw=true)
+
+-----------------------
 ###使用方法
 ```Objective-c
 
